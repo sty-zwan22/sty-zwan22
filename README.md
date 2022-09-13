@@ -6,12 +6,17 @@ Life
 ----
 
 [**University of British Columbia**] Dean's Honour List, Computer Engineering '25 
+
 [**Prince of Wales Secondary School**] Graduated '21
 
 Skills
 -----
 **C**, **C++**
+
 **Java**
+
 **SolidWorks**
+
 **MATLAB**
+
 ###### Learning: Data structures, Java, Python, SQL
