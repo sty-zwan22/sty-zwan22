@@ -5,7 +5,7 @@ UBC Computer Engineering student | EGBC certified EIT | aspiring computer engine
 Life
 ----
 
-[**University of British Columbia**] Dean's Honour List, Computer Engineering '25 
+[**University of British Columbia**] Dean's Honour List 21W, Computer Engineering '25 
 
 [**Prince of Wales Secondary School**] Graduated '21
 
