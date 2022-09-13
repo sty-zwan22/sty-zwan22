@@ -1,6 +1,6 @@
 ﻿# Welcome to Zeo Wang's repo!
 
-UBC Computer Engineering student | EGBC certified EIT | aspiring Computer Engineer | Interested in Physical Chemistry.
+UBC Computer Engineering | EGBC certified EIT | aspiring Computer Engineer | Interested in Physical Chemistry.
 
 Life
 ----
