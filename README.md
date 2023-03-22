@@ -13,12 +13,14 @@ Life
 
 Skills
 -----
-**C**, **C++**
+**C**
 
 **Java**
 
-**SolidWorks**
+**SQL Database**
+
+**SystemVerilog/ Quartus / ModelSim**
 
 **MATLAB**
 
-###### Learning: Data structures, Java, Python, SQL
+###### Learning: Python, Typescript, React/Node frameworks
