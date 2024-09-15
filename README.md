@@ -17,6 +17,8 @@ Skills
 
 **SystemVerilog**
 
+**CUDA C++**
+
 **Python**
 
 **Typescript**
