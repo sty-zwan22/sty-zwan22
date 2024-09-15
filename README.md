@@ -1,11 +1,11 @@
-﻿# Welcome to Zeo Wang's repo!
+﻿# Welcome to Zeo's repo!
 
-UBC Computer Engineering | EGBC EIT | aspiring Computer Engineer | Interested in Math / Phys.Chemistry
+UBC Computer Engineering | EGBC EIT | aspiring Computer Engineer | continuous learner 
 
 Life
 ----
 
-[**University of British Columbia**] Dean's Honour List '21, Computer Engineering '25 
+[**University of British Columbia**] Dean's Honour List '21, Computer Engineering '26 
 
 [**University of British Columbia**] Research Assistant
 
@@ -13,14 +13,14 @@ Life
 
 Skills
 -----
-**C**
+**C/C++**
 
-**Java**
+**SystemVerilog**
 
-**SQL Database**
+**Python**
 
-**SystemVerilog/ Quartus / ModelSim**
+**Typescript**
+
+**Erlang**
 
 **MATLAB**
-
-###### Learning: Python, Typescript, React/Node frameworks
